@@ -9,3 +9,5 @@
  4- Sorting and Grouping
  5- Subqueries
  6- Advanced String Functions / Regex / Clause
+
+ Challenge Link: https://leetcode.com/studyplan/top-sql-50/
