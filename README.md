@@ -1,6 +1,6 @@
 # Coding_Sql
 
-  Crack SQL Interview in 50 Qs:
+  - Crack SQL Interview in 50 Qs:
   
  This Repo is a 50 Sql chalenges includes topics:
 
