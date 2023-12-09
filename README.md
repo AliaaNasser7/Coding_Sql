@@ -2,7 +2,7 @@
 
   ## Crack SQL Interview in 50 Qs:
   
- - This Repo is a 50 Sql chalenges includes topics:
+ - This Repo is a 50 Sql chalenges including topics:
 
  
  1- SELECT (basic and advanced)
